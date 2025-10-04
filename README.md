@@ -1,3 +1,4 @@
+
 # 🎙️ Projeto Podcast com IA
 
 Este repositório contém o projeto prático desenvolvido na DIO, com a proposta de criar um **podcast utilizando Inteligência Artificial**.  
@@ -13,10 +14,10 @@ Aqui estão os prompts utilizados, o áudio final e demais materiais de apoio.
 ---
 
 ## 🚀 Tecnologias / Ferramentas
-- **ChatGPT / IA** → para geração de roteiro e prompts
-- **Editor de Áudio** (Audacity, Reaper ou Adobe Audition) → para edição
-- **Figma** (opcional) → para design de capa ou materiais
-- **Git e GitHub** → para versionamento e entrega do projeto
+- **ChatGPT / IA** → para geração de roteiro e prompts  
+- **Editor de Áudio** (Audacity, Reaper ou Adobe Audition) → para edição  
+- **Figma** (opcional) → para design de capa ou materiais  
+- **Git e GitHub** → para versionamento e entrega do projeto  
 
 ---
 
@@ -26,7 +27,13 @@ Aqui estão os prompts utilizados, o áudio final e demais materiais de apoio.
 ---
 
 ## 🎧 Podcast Final
-👉 [Clique aqui para ouvir o podcast](./audio/podcast-final.mp3)
+
+👉 Clique abaixo para ouvir o podcast diretamente aqui no GitHub:
+
+<audio controls>
+  <source src="audio/podcast-final.mp3" type="audio/mpeg">
+  Seu navegador não suporta a reprodução de áudio.
+</audio>
 
 ---
 
