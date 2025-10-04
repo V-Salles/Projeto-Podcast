@@ -32,10 +32,10 @@ Aqui estão os prompts utilizados, o áudio final e demais materiais de apoio.
 
 <audio controls>
   <source src="audio/podcast-final.mp3" type="audio/mpeg">
-  Seu navegador não suporta a reprodução de áudio.
+  👉 [Clique aqui para ouvir o podcast](audio/podcast-final.mp3)
 </audio>
 
 ---
 
 ## ✨ Autor
-Projeto desenvolvido por [Seu Nome Aqui].
+Projeto desenvolvido por Victor Salles.
