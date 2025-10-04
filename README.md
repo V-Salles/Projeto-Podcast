@@ -28,8 +28,6 @@ Aqui estão os prompts utilizados, o áudio final e demais materiais de apoio.
 
 ## 🎧 Podcast Final
 
-## 🎧 Podcast Final
-
 👉 [Clique aqui para ouvir o podcast](audio/podcast-final.mp3)
 
 
