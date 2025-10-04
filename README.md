@@ -28,12 +28,10 @@ Aqui estão os prompts utilizados, o áudio final e demais materiais de apoio.
 
 ## 🎧 Podcast Final
 
-👉 Clique abaixo para ouvir o podcast diretamente aqui no GitHub:
+## 🎧 Podcast Final
 
-<audio controls>
-  <source src="audio/podcast-final.mp3" type="audio/mpeg">
-  👉 [Clique aqui para ouvir o podcast](audio/podcast-final.mp3)
-</audio>
+👉 [Clique aqui para ouvir o podcast](audio/podcast-final.mp3)
+
 
 ---
 
